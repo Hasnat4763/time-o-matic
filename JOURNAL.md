@@ -19,3 +19,13 @@ added USB C receptacles
 **Total time spent: 1.5h**
 
 
+# July 10th: tidied up the schematic and selected some parts!
+
+Someone at kicad discord told me to organize my schematic so I did that
+added a few switches for navigation
+decided to use a cheap tp4056 module for battery charging
+selected NEO-M8 GPS module to get time and location data (Maybe use it as a personal time server or gift it to crush to get her house location :)) )
+
+[Kicad Timeomatic.pdf](https://github.com/user-attachments/files/21167364/Kicad.Timeomatic.pdf)
+
+**Total time spent: 1.5h**
