@@ -26,6 +26,9 @@ added a few switches for navigation
 decided to use a cheap tp4056 module for battery charging
 selected NEO-M8 GPS module to get time and location data (Maybe use it as a personal time server or gift it to crush to get her house location :)) )
 
+<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/84669826-c66b-4b07-bcb1-e7cb0841b26e" />
+
+
 [Kicad Timeomatic.pdf](https://github.com/user-attachments/files/21167364/Kicad.Timeomatic.pdf)
 
 **Total time spent: 1.5h**
