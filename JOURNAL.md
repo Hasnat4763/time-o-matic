@@ -32,3 +32,16 @@ selected NEO-M8 GPS module to get time and location data (Maybe use it as a pers
 [Kicad Timeomatic.pdf](https://github.com/user-attachments/files/21167364/Kicad.Timeomatic.pdf)
 
 **Total time spent: 1.5h**
+# July 13th: Finished the PCB!
+
+After some works, finished the PCB up
+
+Scrapped the idea for a GPS module
+
+<img width="1227" height="528" alt="image" src="https://github.com/user-attachments/assets/5f0c7395-e842-4c11-bb31-4800755106ef" />
+
+<img width="1263" height="615" alt="image" src="https://github.com/user-attachments/assets/1c7f522b-7204-4e08-9319-b84663f66663" />
+
+
+
+**Total time spent: 1.5h**
