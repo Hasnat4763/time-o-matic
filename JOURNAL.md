@@ -54,3 +54,11 @@ I think that I don't need my pcb that big and only need 4 switches so I removed 
 <img width="998" height="609" alt="image" src="https://github.com/user-attachments/assets/6cf8ac06-5aad-45b5-b318-20facd0f0846" />
 
 **Total time spent: 0.5h aka 30 minutes**
+
+# July 16th: Changing the PCB!
+
+I thought I am just gonna use it as a CPU, GPU temp display under my monitor so I don't need any buttons or batteries :)
+
+<img width="620" height="622" alt="image" src="https://github.com/user-attachments/assets/e690a47f-0ac0-4dc0-a68b-10095d9d6237" />
+
+**Total time spent: 0.5h aka 30 minutes**
