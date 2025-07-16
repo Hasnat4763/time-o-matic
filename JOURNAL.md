@@ -58,7 +58,10 @@ I think that I don't need my pcb that big and only need 4 switches so I removed 
 # July 16th: Changing the PCB!
 
 I thought I am just gonna use it as a CPU, GPU temp display under my monitor so I don't need any buttons or batteries :)
+Also started working on the case
 
 <img width="620" height="622" alt="image" src="https://github.com/user-attachments/assets/e690a47f-0ac0-4dc0-a68b-10095d9d6237" />
+<img width="689" height="459" alt="image" src="https://github.com/user-attachments/assets/d5b835de-3d8b-48ae-9788-398f8483d967" />
 
-**Total time spent: 0.5h aka 30 minutes**
+
+**Total time spent: 1h**
