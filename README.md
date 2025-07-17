@@ -1,2 +1,2 @@
 # time-o-matic
-A table Clock
+PC statistics display
