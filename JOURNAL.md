@@ -1,7 +1,7 @@
 ---
 title: "Time O Matic"
 author: "Abul Hasnat"
-description: "It is a nice table clock"
+description: "It is a PC RTSS Display"
 created_at: "2025-07-08"
 ---
 
@@ -65,3 +65,13 @@ Also started working on the case
 
 
 **Total time spent: 1h**
+
+# July 17th: Designing the top case!
+
+I want to have 2 0.91" oleds for displaying the infos i want
+
+<img width="659" height="542" alt="image" src="https://github.com/user-attachments/assets/51894383-2a0b-45ad-b9a8-69141968c983" />
+<img width="553" height="403" alt="image" src="https://github.com/user-attachments/assets/9678f5da-23a4-427b-bc2c-bbc7803b7bed" />
+
+**Total time spent: 0.5h**
+
