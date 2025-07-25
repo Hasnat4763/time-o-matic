@@ -5,6 +5,8 @@ description: "It is a PC RTSS Display"
 created_at: "2025-07-08"
 ---
 
+# Total Time Spent: 5.3h
+
 # July 8th: Started working!
 
 Started working on my table clock
