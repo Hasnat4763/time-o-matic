@@ -75,3 +75,10 @@ I want to have 2 0.91" oleds for displaying the infos i want
 
 **Total time spent: 0.5h**
 
+# July 25th: Created a demo firmware!
+
+
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/b124b49a-8107-484d-b721-592c7f9b72ed" />
+
+
+**Total time spent: 0.3h**
