@@ -1,5 +1,5 @@
 ---
-title: "Time O Matic"
+title: "Statistico"
 author: "Abul Hasnat"
 description: "It is a PC RTSS Display"
 created_at: "2025-07-08"
