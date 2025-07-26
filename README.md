@@ -4,6 +4,16 @@ This is a pc statistics displayer which uses USB to transmit RTSS data over seri
 
 I made this because during gameplay it is pretty disorienting while MSI afterburner is giving an overlay and I dont have any display on my casing to do the same work.
 
+# PCB
+
+<img width="554" height="678" alt="image" src="https://github.com/user-attachments/assets/4c554838-c646-476d-b436-63ec32291b25" />
+
+<img width="670" height="750" alt="image" src="https://github.com/user-attachments/assets/84282df2-abcb-4a1f-a359-c65312e408bd" />
+
+<img width="882" height="767" alt="image" src="https://github.com/user-attachments/assets/256be551-0122-452f-8b2a-0d78871d9cfe" />
+
+
+
 
 # CAD
 
