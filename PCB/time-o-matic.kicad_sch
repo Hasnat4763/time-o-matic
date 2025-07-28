@@ -5739,7 +5739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_3220_8050Metric_Pad2.65x5.15mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_SOD-882"
 			(at 300.99 54.61 0)
 			(effects
 				(font

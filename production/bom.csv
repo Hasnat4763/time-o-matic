@@ -3,7 +3,7 @@
 C2,0603,1,100nF,
 C3,0603,1,22uF,
 C4,0603,1,220pF,
-D1,3220,1,D_Schottky,
+D1,D_SOD-882,1,D_Schottky,
 J2,USB_C_Receptacle_GCT_USB4085,1,USB_C_Receptacle_USB2.0_14P,
 J5,PinHeader_1x04_P2.54mm_Vertical,1,Display Connector,
 L1,0603,1,10uH,
