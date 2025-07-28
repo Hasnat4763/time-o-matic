@@ -56,7 +56,7 @@ I made this because during gameplay it is pretty disorienting while MSI afterbur
 | U1 | ESP32-WROOM-32E | 1 | ESP32-WROOM-E | $3.30 | [AliExpress](https://www.aliexpress.com/item/1005005859646446.html) |
 | U2 | SOIC8E_MPS_MNP-L | 1 | MP1584EN-LF-P | $2.80 | [AliExpress](https://www.aliexpress.com/item/32859231863.html) |
 | U4 | SOIC-16_3.9x9.9mm_P1.27mm | 1 | CH340C | $3.30 | [AliExpress](https://www.aliexpress.com/item/1005005771405592.html) |
-|    |                           |   | PCB and Stencil| $22 | [JLCPCB]([https://www.aliexpress.com/item/1005005771405592.html](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1d6a6af164f7687632a73b3bdf67f14b9d156949_image.png)) |
+|    |                           |   | PCB and Stencil| $22 | [JLCPCB](https://www.aliexpress.com/item/1005005771405592.html](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1d6a6af164f7687632a73b3bdf67f14b9d156949_image.png)) |
 |    |                           |  | Case | Printing Legion |
 
 ## Cost Summary
