@@ -6,7 +6,8 @@ I made this because during gameplay it is pretty disorienting while MSI afterbur
 
 # PCB
 
-<img width="657" height="726" alt="image" src="https://github.com/user-attachments/assets/8f3804f5-ccf1-4081-b72e-2d139d280b2e" />
+<img width="655" height="710" alt="image" src="https://github.com/user-attachments/assets/e917c69e-cb01-4836-98b0-d3f3d7adf5c1" />
+
 
 <img width="657" height="726" alt="image" src="https://github.com/user-attachments/assets/cd420edf-2cdc-4b06-acd3-654d53c61c3e" />
 
